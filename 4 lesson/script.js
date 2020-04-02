@@ -151,3 +151,8 @@ do {
 
 
 //appData.chooseOptExpenses();
+
+
+let y = 1; 
+let x = y = 2;
+console.log(0 || "" || 2 || undefined || true || falsе);
